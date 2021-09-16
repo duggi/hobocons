@@ -1,5 +1,3 @@
-![Hobo symbols](hobo-signs-taylan-apukovska.jpg)
-
 <h3 align="center">Hobocons</h3>
 
 <p align="center">
@@ -8,15 +6,11 @@
   <a href="https://icons.getbootstrap.com/"><strong>Explore Bootstrap Icons »</strong></a>
   <br>
   <br>
-  <a href="https://getbootstrap.com/">Bootstrap</a>
-  ·
-  <a href="https://themes.getbootstrap.com/">Themes</a>
-  ·
-  <a href="https://blog.getbootstrap.com/">Blog</a>
-  <br>
 </p>
 
-[![Bootstrap Icons preview](https://github.com/twbs/icons/blob/main/.github/preview.png)](https://icons.getbootstrap.com)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/duggi/hobocons/main/hobo-signs-taylan-apukovska.jpg" alt="Hobo symbols">
+</p>
 
 ## Install
 
