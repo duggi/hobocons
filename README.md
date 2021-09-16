@@ -1,6 +1,4 @@
-<p align="center">
 ![Hobo symbols](hobo-signs-taylan-apukovska.jpg)
-</p>
 
 <h3 align="center">Hobocons</h3>
 
