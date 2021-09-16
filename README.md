@@ -1,13 +1,11 @@
 <p align="center">
-  <a href="https://v5.getbootstrap.com/">
-    <img src="https://v5.getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap logo" width="200" height="165">
-  </a>
+![Hobo symbols](hobo-signs-taylan-apukovska.jpg)
 </p>
 
-<h3 align="center">Bootstrap Icons</h3>
+<h3 align="center">Hobocons</h3>
 
 <p align="center">
-  Official open source SVG icon library for Bootstrap with over 1,300 icons.
+  Open source SVG icon library of hobo symbols based on Bootstrap icons.
   <br>
   <a href="https://icons.getbootstrap.com/"><strong>Explore Bootstrap Icons »</strong></a>
   <br>
